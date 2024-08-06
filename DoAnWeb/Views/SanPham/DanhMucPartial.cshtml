@@ -1,0 +1,33 @@
+﻿<li class="list-group-item border-0 border-bottom bg-transparent">
+    @{
+        foreach (var danhmuc in Model)
+        {
+            <b>
+                <a href="@Url.Action("ShowTheoDanhMuc", "SanPham", new { Ma = danhmuc.MADANHMUC })" style="text-transform:uppercase;text-decoration:none; color: black">@danhmuc.TENDANHMUC</a>
+            </b>
+
+            if (danhmuc.MADANHMUC == 1)
+            {
+                Html.RenderAction("ThoiTrangNamPartial", "SanPham");
+            }
+            else
+            {
+                Html.RenderAction("ThoiTrangNuPartial", "SanPham");
+            }
+
+        }
+    }
+
+    <br />
+    <b>
+        <a href="@Url.Action("SanPhamKhuyenMai", "SanPham", new {})" style="text-transform: uppercase; text-decoration: none; color: black">Sản Phẩm Khuyến Mại</a>
+    </b>
+
+    <br />
+    <br />
+
+    <b>
+        <a href="@Url.Action("SanPhamMoi", "SanPham", new { })" style="text-transform: uppercase; text-decoration: none; color: black">Sản Phẩm Mới</a>
+    </b>
+
+</li>

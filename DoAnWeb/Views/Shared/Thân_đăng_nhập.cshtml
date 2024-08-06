@@ -1,0 +1,43 @@
+﻿<!--Thân-->
+<content class="bg-primary-subtle" id="content">
+    <div class="container-fluid bg-dark col-lg-8 col-12" style="height: 50px;">
+        <div class="d-flex align-items-center h-100">
+        </div>
+    </div>
+
+
+    <div class="container-fluid bg-light col-lg-8 col-12" style=" padding: 50px 100px;">
+        <div class="form-container">
+            <h2 class="text-center mb-4">Đăng Nhập</h2>
+            <form action="~/DangNhap/KTDangNhap" method="post">
+                <div class="mb-3">
+                    <label for="username" class="form-label">Tên đăng nhập</label>
+                    <input type="text" class="form-control" id="username" name="TenDangNhap" required>
+                </div>
+                <div class="mb-3">
+                    <label for="password" class="form-label">Mật khẩu</label>
+                    <input type="password" class="form-control" id="password" name="MatKhau" required>
+                </div>
+                <div class="mb-3 form-check d-flex justify-content-between">
+
+                    <div>
+                        <input type="checkbox" class="form-check-input" id="remember">
+                        <label class="form-check-label" for="remember">Lưu đăng nhập</label>
+                    </div>
+
+
+                    <div>
+                        <a href="#" class="text-decoration-none">Quên mật khẩu?</a>
+                        <a href="@Url.Action("DangKy", "Home")" class="text-decoration-none">Đăng ký ngay</a>
+                    </div>
+
+                </div>
+                <button type="submit" class="btn btn-primary">Đăng Nhập</button>
+
+            </form>
+
+        </div>
+
+    </div>
+
+</content>

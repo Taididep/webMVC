@@ -1,0 +1,240 @@
+D:\Study\Lập trình web\DoAnWeb\DoAnWeb\bin\DoAnWeb.dll.config
+D:\Study\Lập trình web\DoAnWeb\DoAnWeb\bin\DoAnWeb.dll
+D:\Study\Lập trình web\DoAnWeb\DoAnWeb\bin\DoAnWeb.pdb
+D:\Study\Lập trình web\DoAnWeb\DoAnWeb\bin\roslyn\csc.exe
+D:\Study\Lập trình web\DoAnWeb\DoAnWeb\bin\roslyn\csc.exe.config
+D:\Study\Lập trình web\DoAnWeb\DoAnWeb\bin\roslyn\csc.rsp
+D:\Study\Lập trình web\DoAnWeb\DoAnWeb\bin\roslyn\csi.exe
+D:\Study\Lập trình web\DoAnWeb\DoAnWeb\bin\roslyn\csi.rsp
+D:\Study\Lập trình web\DoAnWeb\DoAnWeb\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Study\Lập trình web\DoAnWeb\DoAnWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Study\Lập trình web\DoAnWeb\DoAnWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Study\Lập trình web\DoAnWeb\DoAnWeb\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Study\Lập trình web\DoAnWeb\DoAnWeb\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Study\Lập trình web\DoAnWeb\DoAnWeb\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Study\Lập trình web\DoAnWeb\DoAnWeb\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Study\Lập trình web\DoAnWeb\DoAnWeb\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Study\Lập trình web\DoAnWeb\DoAnWeb\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Study\Lập trình web\DoAnWeb\DoAnWeb\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Study\Lập trình web\DoAnWeb\DoAnWeb\bin\roslyn\System.AppContext.dll
+D:\Study\Lập trình web\DoAnWeb\DoAnWeb\bin\roslyn\System.Collections.Immutable.dll
+D:\Study\Lập trình web\DoAnWeb\DoAnWeb\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Study\Lập trình web\DoAnWeb\DoAnWeb\bin\roslyn\System.IO.FileSystem.dll
+D:\Study\Lập trình web\DoAnWeb\DoAnWeb\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Study\Lập trình web\DoAnWeb\DoAnWeb\bin\roslyn\System.Reflection.Metadata.dll
+D:\Study\Lập trình web\DoAnWeb\DoAnWeb\bin\roslyn\vbc.exe
+D:\Study\Lập trình web\DoAnWeb\DoAnWeb\bin\roslyn\vbc.exe.config
+D:\Study\Lập trình web\DoAnWeb\DoAnWeb\bin\roslyn\vbc.rsp
+D:\Study\Lập trình web\DoAnWeb\DoAnWeb\bin\roslyn\VBCSCompiler.exe
+D:\Study\Lập trình web\DoAnWeb\DoAnWeb\bin\roslyn\VBCSCompiler.exe.config
+D:\Study\Lập trình web\DoAnWeb\DoAnWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Study\Lập trình web\DoAnWeb\DoAnWeb\bin\Microsoft.Web.Infrastructure.dll
+D:\Study\Lập trình web\DoAnWeb\DoAnWeb\bin\Newtonsoft.Json.dll
+D:\Study\Lập trình web\DoAnWeb\DoAnWeb\bin\System.Net.Http.Formatting.dll
+D:\Study\Lập trình web\DoAnWeb\DoAnWeb\bin\System.Web.Helpers.dll
+D:\Study\Lập trình web\DoAnWeb\DoAnWeb\bin\System.Web.Http.dll
+D:\Study\Lập trình web\DoAnWeb\DoAnWeb\bin\System.Web.Http.WebHost.dll
+D:\Study\Lập trình web\DoAnWeb\DoAnWeb\bin\System.Web.Mvc.dll
+D:\Study\Lập trình web\DoAnWeb\DoAnWeb\bin\System.Web.Razor.dll
+D:\Study\Lập trình web\DoAnWeb\DoAnWeb\bin\System.Web.Webpages.Deployment.dll
+D:\Study\Lập trình web\DoAnWeb\DoAnWeb\bin\System.Web.Webpages.dll
+D:\Study\Lập trình web\DoAnWeb\DoAnWeb\bin\System.Web.Webpages.Razor.dll
+D:\Study\Lập trình web\DoAnWeb\DoAnWeb\bin\System.Web.Razor.xml
+D:\Study\Lập trình web\DoAnWeb\DoAnWeb\bin\System.Web.Webpages.xml
+D:\Study\Lập trình web\DoAnWeb\DoAnWeb\bin\System.Web.Webpages.Deployment.xml
+D:\Study\Lập trình web\DoAnWeb\DoAnWeb\bin\System.Web.Webpages.Razor.xml
+D:\Study\Lập trình web\DoAnWeb\DoAnWeb\bin\System.Web.Helpers.xml
+D:\Study\Lập trình web\DoAnWeb\DoAnWeb\bin\System.Web.Mvc.xml
+D:\Study\Lập trình web\DoAnWeb\DoAnWeb\bin\Newtonsoft.Json.xml
+D:\Study\Lập trình web\DoAnWeb\DoAnWeb\bin\System.Net.Http.Formatting.xml
+D:\Study\Lập trình web\DoAnWeb\DoAnWeb\bin\System.Web.Http.xml
+D:\Study\Lập trình web\DoAnWeb\DoAnWeb\bin\System.Web.Http.WebHost.xml
+D:\Study\Lập trình web\DoAnWeb\DoAnWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Study\Lập trình web\DoAnWeb\DoAnWeb\obj\Debug\DoAnWeb.csproj.AssemblyReference.cache
+D:\Study\Lập trình web\DoAnWeb\DoAnWeb\obj\Debug\DoAnWeb.csproj.CoreCompileInputs.cache
+D:\Study\Lập trình web\DoAnWeb\DoAnWeb\obj\Debug\DoAnWeb.csproj.CopyComplete
+D:\Study\Lập trình web\DoAnWeb\DoAnWeb\obj\Debug\DoAnWeb.dll
+D:\Study\Lập trình web\DoAnWeb\DoAnWeb\obj\Debug\DoAnWeb.pdb
+D:\Study\Lập trình web\Đồ Án\DoAnWeb\DoAnWeb\bin\DoAnWeb.dll.config
+D:\Study\Lập trình web\Đồ Án\DoAnWeb\DoAnWeb\bin\DoAnWeb.dll
+D:\Study\Lập trình web\Đồ Án\DoAnWeb\DoAnWeb\bin\DoAnWeb.pdb
+D:\Study\Lập trình web\Đồ Án\DoAnWeb\DoAnWeb\bin\roslyn\csc.exe
+D:\Study\Lập trình web\Đồ Án\DoAnWeb\DoAnWeb\bin\roslyn\csc.exe.config
+D:\Study\Lập trình web\Đồ Án\DoAnWeb\DoAnWeb\bin\roslyn\csc.rsp
+D:\Study\Lập trình web\Đồ Án\DoAnWeb\DoAnWeb\bin\roslyn\csi.exe
+D:\Study\Lập trình web\Đồ Án\DoAnWeb\DoAnWeb\bin\roslyn\csi.rsp
+D:\Study\Lập trình web\Đồ Án\DoAnWeb\DoAnWeb\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Study\Lập trình web\Đồ Án\DoAnWeb\DoAnWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Study\Lập trình web\Đồ Án\DoAnWeb\DoAnWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Study\Lập trình web\Đồ Án\DoAnWeb\DoAnWeb\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Study\Lập trình web\Đồ Án\DoAnWeb\DoAnWeb\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Study\Lập trình web\Đồ Án\DoAnWeb\DoAnWeb\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Study\Lập trình web\Đồ Án\DoAnWeb\DoAnWeb\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Study\Lập trình web\Đồ Án\DoAnWeb\DoAnWeb\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Study\Lập trình web\Đồ Án\DoAnWeb\DoAnWeb\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Study\Lập trình web\Đồ Án\DoAnWeb\DoAnWeb\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Study\Lập trình web\Đồ Án\DoAnWeb\DoAnWeb\bin\roslyn\System.AppContext.dll
+D:\Study\Lập trình web\Đồ Án\DoAnWeb\DoAnWeb\bin\roslyn\System.Collections.Immutable.dll
+D:\Study\Lập trình web\Đồ Án\DoAnWeb\DoAnWeb\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Study\Lập trình web\Đồ Án\DoAnWeb\DoAnWeb\bin\roslyn\System.IO.FileSystem.dll
+D:\Study\Lập trình web\Đồ Án\DoAnWeb\DoAnWeb\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Study\Lập trình web\Đồ Án\DoAnWeb\DoAnWeb\bin\roslyn\System.Reflection.Metadata.dll
+D:\Study\Lập trình web\Đồ Án\DoAnWeb\DoAnWeb\bin\roslyn\vbc.exe
+D:\Study\Lập trình web\Đồ Án\DoAnWeb\DoAnWeb\bin\roslyn\vbc.exe.config
+D:\Study\Lập trình web\Đồ Án\DoAnWeb\DoAnWeb\bin\roslyn\vbc.rsp
+D:\Study\Lập trình web\Đồ Án\DoAnWeb\DoAnWeb\bin\roslyn\VBCSCompiler.exe
+D:\Study\Lập trình web\Đồ Án\DoAnWeb\DoAnWeb\bin\roslyn\VBCSCompiler.exe.config
+D:\Study\Lập trình web\Đồ Án\DoAnWeb\DoAnWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Study\Lập trình web\Đồ Án\DoAnWeb\DoAnWeb\bin\Microsoft.Web.Infrastructure.dll
+D:\Study\Lập trình web\Đồ Án\DoAnWeb\DoAnWeb\bin\Newtonsoft.Json.dll
+D:\Study\Lập trình web\Đồ Án\DoAnWeb\DoAnWeb\bin\System.Net.Http.Formatting.dll
+D:\Study\Lập trình web\Đồ Án\DoAnWeb\DoAnWeb\bin\System.Web.Helpers.dll
+D:\Study\Lập trình web\Đồ Án\DoAnWeb\DoAnWeb\bin\System.Web.Http.dll
+D:\Study\Lập trình web\Đồ Án\DoAnWeb\DoAnWeb\bin\System.Web.Http.WebHost.dll
+D:\Study\Lập trình web\Đồ Án\DoAnWeb\DoAnWeb\bin\System.Web.Mvc.dll
+D:\Study\Lập trình web\Đồ Án\DoAnWeb\DoAnWeb\bin\System.Web.Razor.dll
+D:\Study\Lập trình web\Đồ Án\DoAnWeb\DoAnWeb\bin\System.Web.Webpages.Deployment.dll
+D:\Study\Lập trình web\Đồ Án\DoAnWeb\DoAnWeb\bin\System.Web.Webpages.dll
+D:\Study\Lập trình web\Đồ Án\DoAnWeb\DoAnWeb\bin\System.Web.Webpages.Razor.dll
+D:\Study\Lập trình web\Đồ Án\DoAnWeb\DoAnWeb\bin\System.Web.Razor.xml
+D:\Study\Lập trình web\Đồ Án\DoAnWeb\DoAnWeb\bin\System.Web.Webpages.xml
+D:\Study\Lập trình web\Đồ Án\DoAnWeb\DoAnWeb\bin\System.Web.Webpages.Deployment.xml
+D:\Study\Lập trình web\Đồ Án\DoAnWeb\DoAnWeb\bin\System.Web.Webpages.Razor.xml
+D:\Study\Lập trình web\Đồ Án\DoAnWeb\DoAnWeb\bin\System.Web.Helpers.xml
+D:\Study\Lập trình web\Đồ Án\DoAnWeb\DoAnWeb\bin\System.Web.Mvc.xml
+D:\Study\Lập trình web\Đồ Án\DoAnWeb\DoAnWeb\bin\Newtonsoft.Json.xml
+D:\Study\Lập trình web\Đồ Án\DoAnWeb\DoAnWeb\bin\System.Net.Http.Formatting.xml
+D:\Study\Lập trình web\Đồ Án\DoAnWeb\DoAnWeb\bin\System.Web.Http.xml
+D:\Study\Lập trình web\Đồ Án\DoAnWeb\DoAnWeb\bin\System.Web.Http.WebHost.xml
+D:\Study\Lập trình web\Đồ Án\DoAnWeb\DoAnWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Study\Lập trình web\Đồ Án\DoAnWeb\DoAnWeb\obj\Debug\DoAnWeb.csproj.AssemblyReference.cache
+D:\Study\Lập trình web\Đồ Án\DoAnWeb\DoAnWeb\obj\Debug\DoAnWeb.csproj.CoreCompileInputs.cache
+D:\Study\Lập trình web\Đồ Án\DoAnWeb\DoAnWeb\obj\Debug\DoAnWeb.csproj.CopyComplete
+D:\Study\Lập trình web\Đồ Án\DoAnWeb\DoAnWeb\obj\Debug\DoAnWeb.dll
+D:\Study\Lập trình web\Đồ Án\DoAnWeb\DoAnWeb\obj\Debug\DoAnWeb.pdb
+D:\Study\Lập trình web\Đồ Án\DoAnWeb\DoAnWeb\bin\EntityFramework.dll
+D:\Study\Lập trình web\Đồ Án\DoAnWeb\DoAnWeb\bin\EntityFramework.SqlServer.dll
+D:\Study\Lập trình web\Đồ Án\DoAnWeb\DoAnWeb\bin\EntityFramework.xml
+D:\Study\Lập trình web\Đồ Án\DoAnWeb\DoAnWeb\bin\EntityFramework.SqlServer.xml
+E:\Đồ Án\DoAnWeb\DoAnWeb\bin\DoAnWeb.dll.config
+E:\Đồ Án\DoAnWeb\DoAnWeb\bin\DoAnWeb.dll
+E:\Đồ Án\DoAnWeb\DoAnWeb\bin\DoAnWeb.pdb
+E:\Đồ Án\DoAnWeb\DoAnWeb\bin\roslyn\csc.exe
+E:\Đồ Án\DoAnWeb\DoAnWeb\bin\roslyn\csc.exe.config
+E:\Đồ Án\DoAnWeb\DoAnWeb\bin\roslyn\csc.rsp
+E:\Đồ Án\DoAnWeb\DoAnWeb\bin\roslyn\csi.exe
+E:\Đồ Án\DoAnWeb\DoAnWeb\bin\roslyn\csi.rsp
+E:\Đồ Án\DoAnWeb\DoAnWeb\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Đồ Án\DoAnWeb\DoAnWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Đồ Án\DoAnWeb\DoAnWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\Đồ Án\DoAnWeb\DoAnWeb\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Đồ Án\DoAnWeb\DoAnWeb\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\Đồ Án\DoAnWeb\DoAnWeb\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Đồ Án\DoAnWeb\DoAnWeb\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Đồ Án\DoAnWeb\DoAnWeb\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\Đồ Án\DoAnWeb\DoAnWeb\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\Đồ Án\DoAnWeb\DoAnWeb\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Đồ Án\DoAnWeb\DoAnWeb\bin\roslyn\System.AppContext.dll
+E:\Đồ Án\DoAnWeb\DoAnWeb\bin\roslyn\System.Collections.Immutable.dll
+E:\Đồ Án\DoAnWeb\DoAnWeb\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\Đồ Án\DoAnWeb\DoAnWeb\bin\roslyn\System.IO.FileSystem.dll
+E:\Đồ Án\DoAnWeb\DoAnWeb\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\Đồ Án\DoAnWeb\DoAnWeb\bin\roslyn\System.Reflection.Metadata.dll
+E:\Đồ Án\DoAnWeb\DoAnWeb\bin\roslyn\vbc.exe
+E:\Đồ Án\DoAnWeb\DoAnWeb\bin\roslyn\vbc.exe.config
+E:\Đồ Án\DoAnWeb\DoAnWeb\bin\roslyn\vbc.rsp
+E:\Đồ Án\DoAnWeb\DoAnWeb\bin\roslyn\VBCSCompiler.exe
+E:\Đồ Án\DoAnWeb\DoAnWeb\bin\roslyn\VBCSCompiler.exe.config
+E:\Đồ Án\DoAnWeb\DoAnWeb\bin\EntityFramework.dll
+E:\Đồ Án\DoAnWeb\DoAnWeb\bin\EntityFramework.SqlServer.dll
+E:\Đồ Án\DoAnWeb\DoAnWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Đồ Án\DoAnWeb\DoAnWeb\bin\Microsoft.Web.Infrastructure.dll
+E:\Đồ Án\DoAnWeb\DoAnWeb\bin\Newtonsoft.Json.dll
+E:\Đồ Án\DoAnWeb\DoAnWeb\bin\System.Net.Http.Formatting.dll
+E:\Đồ Án\DoAnWeb\DoAnWeb\bin\System.Web.Helpers.dll
+E:\Đồ Án\DoAnWeb\DoAnWeb\bin\System.Web.Http.dll
+E:\Đồ Án\DoAnWeb\DoAnWeb\bin\System.Web.Http.WebHost.dll
+E:\Đồ Án\DoAnWeb\DoAnWeb\bin\System.Web.Mvc.dll
+E:\Đồ Án\DoAnWeb\DoAnWeb\bin\System.Web.Razor.dll
+E:\Đồ Án\DoAnWeb\DoAnWeb\bin\System.Web.Webpages.Deployment.dll
+E:\Đồ Án\DoAnWeb\DoAnWeb\bin\System.Web.Webpages.dll
+E:\Đồ Án\DoAnWeb\DoAnWeb\bin\System.Web.Webpages.Razor.dll
+E:\Đồ Án\DoAnWeb\DoAnWeb\bin\EntityFramework.xml
+E:\Đồ Án\DoAnWeb\DoAnWeb\bin\EntityFramework.SqlServer.xml
+E:\Đồ Án\DoAnWeb\DoAnWeb\bin\System.Web.Razor.xml
+E:\Đồ Án\DoAnWeb\DoAnWeb\bin\System.Web.Webpages.xml
+E:\Đồ Án\DoAnWeb\DoAnWeb\bin\System.Web.Webpages.Deployment.xml
+E:\Đồ Án\DoAnWeb\DoAnWeb\bin\System.Web.Webpages.Razor.xml
+E:\Đồ Án\DoAnWeb\DoAnWeb\bin\System.Web.Helpers.xml
+E:\Đồ Án\DoAnWeb\DoAnWeb\bin\System.Web.Mvc.xml
+E:\Đồ Án\DoAnWeb\DoAnWeb\bin\Newtonsoft.Json.xml
+E:\Đồ Án\DoAnWeb\DoAnWeb\bin\System.Net.Http.Formatting.xml
+E:\Đồ Án\DoAnWeb\DoAnWeb\bin\System.Web.Http.xml
+E:\Đồ Án\DoAnWeb\DoAnWeb\bin\System.Web.Http.WebHost.xml
+E:\Đồ Án\DoAnWeb\DoAnWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Đồ Án\DoAnWeb\DoAnWeb\obj\Debug\DoAnWeb.csproj.AssemblyReference.cache
+E:\Đồ Án\DoAnWeb\DoAnWeb\obj\Debug\DoAnWeb.csproj.CoreCompileInputs.cache
+E:\Đồ Án\DoAnWeb\DoAnWeb\obj\Debug\DoAnWeb.csproj.CopyComplete
+E:\Đồ Án\DoAnWeb\DoAnWeb\obj\Debug\DoAnWeb.dll
+E:\Đồ Án\DoAnWeb\DoAnWeb\obj\Debug\DoAnWeb.pdb
+D:\Study\Lập trình web\Test\Đồ Án\DoAnWeb\DoAnWeb\bin\DoAnWeb.dll.config
+D:\Study\Lập trình web\Test\Đồ Án\DoAnWeb\DoAnWeb\bin\DoAnWeb.dll
+D:\Study\Lập trình web\Test\Đồ Án\DoAnWeb\DoAnWeb\bin\DoAnWeb.pdb
+D:\Study\Lập trình web\Test\Đồ Án\DoAnWeb\DoAnWeb\bin\roslyn\csc.exe
+D:\Study\Lập trình web\Test\Đồ Án\DoAnWeb\DoAnWeb\bin\roslyn\csc.exe.config
+D:\Study\Lập trình web\Test\Đồ Án\DoAnWeb\DoAnWeb\bin\roslyn\csc.rsp
+D:\Study\Lập trình web\Test\Đồ Án\DoAnWeb\DoAnWeb\bin\roslyn\csi.exe
+D:\Study\Lập trình web\Test\Đồ Án\DoAnWeb\DoAnWeb\bin\roslyn\csi.rsp
+D:\Study\Lập trình web\Test\Đồ Án\DoAnWeb\DoAnWeb\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Study\Lập trình web\Test\Đồ Án\DoAnWeb\DoAnWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Study\Lập trình web\Test\Đồ Án\DoAnWeb\DoAnWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Study\Lập trình web\Test\Đồ Án\DoAnWeb\DoAnWeb\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Study\Lập trình web\Test\Đồ Án\DoAnWeb\DoAnWeb\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Study\Lập trình web\Test\Đồ Án\DoAnWeb\DoAnWeb\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Study\Lập trình web\Test\Đồ Án\DoAnWeb\DoAnWeb\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Study\Lập trình web\Test\Đồ Án\DoAnWeb\DoAnWeb\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Study\Lập trình web\Test\Đồ Án\DoAnWeb\DoAnWeb\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Study\Lập trình web\Test\Đồ Án\DoAnWeb\DoAnWeb\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Study\Lập trình web\Test\Đồ Án\DoAnWeb\DoAnWeb\bin\roslyn\System.AppContext.dll
+D:\Study\Lập trình web\Test\Đồ Án\DoAnWeb\DoAnWeb\bin\roslyn\System.Collections.Immutable.dll
+D:\Study\Lập trình web\Test\Đồ Án\DoAnWeb\DoAnWeb\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Study\Lập trình web\Test\Đồ Án\DoAnWeb\DoAnWeb\bin\roslyn\System.IO.FileSystem.dll
+D:\Study\Lập trình web\Test\Đồ Án\DoAnWeb\DoAnWeb\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Study\Lập trình web\Test\Đồ Án\DoAnWeb\DoAnWeb\bin\roslyn\System.Reflection.Metadata.dll
+D:\Study\Lập trình web\Test\Đồ Án\DoAnWeb\DoAnWeb\bin\roslyn\vbc.exe
+D:\Study\Lập trình web\Test\Đồ Án\DoAnWeb\DoAnWeb\bin\roslyn\vbc.exe.config
+D:\Study\Lập trình web\Test\Đồ Án\DoAnWeb\DoAnWeb\bin\roslyn\vbc.rsp
+D:\Study\Lập trình web\Test\Đồ Án\DoAnWeb\DoAnWeb\bin\roslyn\VBCSCompiler.exe
+D:\Study\Lập trình web\Test\Đồ Án\DoAnWeb\DoAnWeb\bin\roslyn\VBCSCompiler.exe.config
+D:\Study\Lập trình web\Test\Đồ Án\DoAnWeb\DoAnWeb\bin\EntityFramework.dll
+D:\Study\Lập trình web\Test\Đồ Án\DoAnWeb\DoAnWeb\bin\EntityFramework.SqlServer.dll
+D:\Study\Lập trình web\Test\Đồ Án\DoAnWeb\DoAnWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Study\Lập trình web\Test\Đồ Án\DoAnWeb\DoAnWeb\bin\Microsoft.Web.Infrastructure.dll
+D:\Study\Lập trình web\Test\Đồ Án\DoAnWeb\DoAnWeb\bin\Newtonsoft.Json.dll
+D:\Study\Lập trình web\Test\Đồ Án\DoAnWeb\DoAnWeb\bin\System.Net.Http.Formatting.dll
+D:\Study\Lập trình web\Test\Đồ Án\DoAnWeb\DoAnWeb\bin\System.Web.Helpers.dll
+D:\Study\Lập trình web\Test\Đồ Án\DoAnWeb\DoAnWeb\bin\System.Web.Http.dll
+D:\Study\Lập trình web\Test\Đồ Án\DoAnWeb\DoAnWeb\bin\System.Web.Http.WebHost.dll
+D:\Study\Lập trình web\Test\Đồ Án\DoAnWeb\DoAnWeb\bin\System.Web.Mvc.dll
+D:\Study\Lập trình web\Test\Đồ Án\DoAnWeb\DoAnWeb\bin\System.Web.Razor.dll
+D:\Study\Lập trình web\Test\Đồ Án\DoAnWeb\DoAnWeb\bin\System.Web.Webpages.Deployment.dll
+D:\Study\Lập trình web\Test\Đồ Án\DoAnWeb\DoAnWeb\bin\System.Web.Webpages.dll
+D:\Study\Lập trình web\Test\Đồ Án\DoAnWeb\DoAnWeb\bin\System.Web.Webpages.Razor.dll
+D:\Study\Lập trình web\Test\Đồ Án\DoAnWeb\DoAnWeb\bin\EntityFramework.xml
+D:\Study\Lập trình web\Test\Đồ Án\DoAnWeb\DoAnWeb\bin\EntityFramework.SqlServer.xml
+D:\Study\Lập trình web\Test\Đồ Án\DoAnWeb\DoAnWeb\bin\System.Web.Razor.xml
+D:\Study\Lập trình web\Test\Đồ Án\DoAnWeb\DoAnWeb\bin\System.Web.Webpages.xml
+D:\Study\Lập trình web\Test\Đồ Án\DoAnWeb\DoAnWeb\bin\System.Web.Webpages.Deployment.xml
+D:\Study\Lập trình web\Test\Đồ Án\DoAnWeb\DoAnWeb\bin\System.Web.Webpages.Razor.xml
+D:\Study\Lập trình web\Test\Đồ Án\DoAnWeb\DoAnWeb\bin\System.Web.Helpers.xml
+D:\Study\Lập trình web\Test\Đồ Án\DoAnWeb\DoAnWeb\bin\System.Web.Mvc.xml
+D:\Study\Lập trình web\Test\Đồ Án\DoAnWeb\DoAnWeb\bin\Newtonsoft.Json.xml
+D:\Study\Lập trình web\Test\Đồ Án\DoAnWeb\DoAnWeb\bin\System.Net.Http.Formatting.xml
+D:\Study\Lập trình web\Test\Đồ Án\DoAnWeb\DoAnWeb\bin\System.Web.Http.xml
+D:\Study\Lập trình web\Test\Đồ Án\DoAnWeb\DoAnWeb\bin\System.Web.Http.WebHost.xml
+D:\Study\Lập trình web\Test\Đồ Án\DoAnWeb\DoAnWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Study\Lập trình web\Test\Đồ Án\DoAnWeb\DoAnWeb\obj\Debug\DoAnWeb.csproj.AssemblyReference.cache
+D:\Study\Lập trình web\Test\Đồ Án\DoAnWeb\DoAnWeb\obj\Debug\DoAnWeb.csproj.CoreCompileInputs.cache
+D:\Study\Lập trình web\Test\Đồ Án\DoAnWeb\DoAnWeb\obj\Debug\DoAnWeb.csproj.CopyComplete
+D:\Study\Lập trình web\Test\Đồ Án\DoAnWeb\DoAnWeb\obj\Debug\DoAnWeb.dll
+D:\Study\Lập trình web\Test\Đồ Án\DoAnWeb\DoAnWeb\obj\Debug\DoAnWeb.pdb

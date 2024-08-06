@@ -1,0 +1,81 @@
+﻿
+@{
+    ViewBag.Title = "ThemSP";
+    Layout = "~/Views/Layout/Layout_Admin.cshtml";
+    <link rel="stylesheet" href="style.css">
+}
+
+<div class="mb-5 col-lg-8 col-12 position-relative start-50 translate-middle-x">
+    <div style="text-align:center">
+        <h2>THÊM SẢN PHẨM VÀO DANH SÁCH SẢN PHẨM</h2>
+    </div>
+    <button type="submit" class="btn btn-primary" onclick="location.href = '@Url.Action("QL_Kho", "Admin")'" style="margin: 20px 0px 20px 750px; width: 100px">Trở về</button>
+    <form action="~/Admin/KTThemSP" method="get">
+        <div class="form-group pb-2">
+            <label for="fullName">Mã sản phẩm:</label>
+            <input type="text" class="form-control" name="MaSP">
+        </div>
+
+        <div class="form-group pb-2">
+            <label for="fullName">Tên sản phẩm:</label>
+            <input type="text" class="form-control" name="TenSP">
+        </div>
+
+        <div class="form-group pb-2">
+            <label for="fullName">Giá sản phẩm:</label>
+            <input type="text" class="form-control" name="GiaSP">
+        </div>
+
+        <div class="form-group pb-2">
+            <label for="fullName">Mô tả:</label>
+            <input type="text" class="form-control" name="MotaSP">
+        </div>
+
+        <div class="form-group pb-2">
+            <label for="fullName">Loại:</label>
+            <select class="form-select" aria-label="Default select example" name="LoaiSP">
+                <option value="1">Áo khoác</option>
+                <option value="2">Áo sơ mi</option>
+                <option value="3">Quần ngắn</option>
+                <option value="4">Quần jeans</option>
+                <option value="5">Đầm, váy</option>
+            </select>
+        </div>
+
+        <div class="form-group pb-2">
+            <label>Danh mục:</label>
+            <div class="justify-content-evenly d-flex">
+                <div class="form-check mx-2">
+                    <input class="form-check-input" type="radio" value="1" name="DanhMuc" checked>
+                    <label class="form-check-label" for="male">Thời trang nam</label>
+                </div>
+                <div class="form-check">
+                    <input class="form-check-input" type="radio" value="2" name="DanhMuc">
+                    <label class="form-check-label" for="female">Thời trang nữ</label>
+                </div>
+            </div>
+        </div>
+
+        <div class="form-group pb-2">
+            <label for="birthday">Ngày cập nhật:</label>
+            <input type="date" class="form-control" Name="NgayCapNhat">
+        </div>
+
+        <div class="form-group pb-2">
+            <label for="address">Số lượng:</label>
+            <input type="text" class="form-control" name="SoLuongSP">
+        </div>
+
+        <div class="form-group pb-2">
+            <label for="city">Ưu đãi:</label>
+            <input type="text" class="form-control" name="UuDaiSP">
+        </div>
+
+        <div class="form-group pb-2">
+            <label for="city">Ảnh:</label>
+            <input type="file" class="form-control" name="Anh">
+        </div>
+
+        <button type="submit" class="btn btn-primary" style="width: 100px">Thêm</button>
+    </form>
+</div>

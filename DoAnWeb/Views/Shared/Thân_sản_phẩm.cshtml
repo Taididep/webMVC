@@ -1,0 +1,29 @@
+﻿<div class="bg-primary-subtle mb-5 col-lg-8 col-12 position-relative start-50 translate-middle-x" id="content">
+
+    <div class="bg-dark" style="height: 50px;">
+        <div class="container-fluid d-flex align-items-center h-100">
+        </div>
+    </div>
+
+    <div class="bg-light">
+        <div class="row gx-0">
+            <!-- Danh mục sản phẩm bên trái -->
+            <div class="col-lg-3 py-4 px-3">
+                <h3 class="">Danh mục</h3>
+                <ul class="list-group">
+
+                    @{ Html.RenderAction("DanhMucPartial", "SanPham");}
+
+                </ul>
+            </div>
+
+            @RenderPage("~/Views/SanPham/SanPhamPartial.cshtml")
+
+
+
+        </div>
+
+
+    </div>
+
+</div>

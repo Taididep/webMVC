@@ -1,0 +1,58 @@
+﻿ <!--Header-->
+<header class="bg-success mb-5 col-lg-8 col-12 position-relative start-50 translate-middle-x" id="header">
+    <nav class="navbar bg-light">
+        <div class="container-fluid">
+
+            <a class="navbar-brand fs-3" href="#"><strong>LTGFasion</strong></a>
+
+            <div class="d-flex">
+                <button type="button" class="btn btn-light">Đăng Nhập</button>
+                <button type="button" class="btn btn-light">Đăng Ký</button>
+            </div>
+
+
+        </div>
+
+    </nav>
+    <nav class="navbar navbar-expand-lg bg-dark border-bottom" data-bs-theme="dark">
+        <div class="container-fluid">
+            <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarScroll" aria-controls="navbarScroll" aria-expanded="false" aria-label="Toggle navigation">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+            <div class="collapse navbar-collapse" id="navbarScroll">
+                <ul class="navbar-nav me-auto my-2 my-lg-0 navbar-nav-scroll" style="--bs-scroll-height: 100px;">
+                    <li class="nav-item ">
+                        <a class="nav-link" aria-current="page" href="#">Trang Chủ</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="#">Sản Phẩm</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" aria-current="page" href="#">Tin Tức</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="#">Giới Thiệu</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" aria-current="page" href="#">Liên Hệ</a>
+                    </li>
+                </ul>
+
+
+
+                <form action="@Url.Action("Search", "SanPham")" class="d-flex" role="search" method="get">
+                    <input class="form-control me-2" type="search" name="keyword" placeholder="Search" aria-label="Search">
+                    <button class="btn btn-outline-light" type="submit">Search</button>
+                </form>
+
+
+            </div>
+        </div>
+    </nav>
+
+
+
+
+
+
+</header>

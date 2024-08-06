@@ -1,0 +1,28 @@
+﻿<!-- Sản phẩm bên phải -->
+<div class="col-lg-8 offset-lg-1">
+
+    <div class="row justify-content-between my-5">
+
+        @foreach (var item in Model)
+        {
+            <div class="col-md-3 mb-3">
+                <div class="card w-100 h-100" id="items">
+                    <img src="~/Imgs/@item.DUONGDAN" class="card-img-top" alt="@item.MASP">
+
+                    <div class="card-body">
+                        <h5 class="card-title">@item.TENSP</h5>
+                        <p class="card-text">@item.MOTA</p>
+                    </div>
+
+                    <ul class="list-group list-group-flush">
+                        <li class="list-group-item">Giá: @item.GIA</li>
+                        <li class="list-group-item">
+                            @Html.ActionLink("Xem Chi Tiết", "Details", "SanPham" , new { id = item.MASP }, new { @class = "btn btn-info" })
+                        </li>
+                    </ul>
+
+                </div>
+            </div>
+        }
+    </div>
+</div>

@@ -1,0 +1,48 @@
+﻿
+@{
+    ViewBag.Title = "DK_TK";
+    Layout = "~/Views/Layout/Layout_Admin.cshtml";
+}
+
+<!--Thân-->
+<content class="bg-primary-subtle" id="content">
+    <div class="container-fluid bg-dark col-lg-8 col-12" style="height: 50px;">
+        <div class="d-flex align-items-center h-100">
+        </div>
+    </div>
+
+
+    <div class="container-fluid bg-light col-lg-8 col-12" style=" padding: 50px 100px;">
+        <div class="form-container">
+            <h2 class="text-center mb-4">Đăng Ký</h2>
+            <form action="~/Admin/KTDangKy" method="post">
+
+                <div class="mb-3">
+                    <label for="regEmail" class="form-label">Email</label>
+                    <input type="email" class="form-control" id="regEmail" name="regEmail" required>
+                </div>
+
+                <div class="mb-3">
+                    <label for="regUsername" class="form-label">Tên đăng nhập</label>
+                    <input type="text" class="form-control" id="regUsername" name="regUsername" required>
+                </div>
+
+                <div class="mb-3">
+                    <label for="regPassword" class="form-label">Mật khẩu</label>
+                    <input type="password" class="form-control" id="regPassword" name="regPassword" required>
+                </div>
+
+                <div class="mb-3">
+                    <label for="confirmPassword" class="form-label">Xác nhận mật khẩu</label>
+                    <input type="password" class="form-control" id="confirmPassword" name="confirmPassword" required>
+                </div>
+                <button type="submit" class="btn btn-primary">Đăng Ký</button>
+            </form>
+        </div>
+
+    </div>
+    </div>
+
+</content>
+
+

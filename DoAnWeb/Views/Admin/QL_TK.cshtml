@@ -1,0 +1,46 @@
+﻿@model IEnumerable<DoAnWeb.Models.TAIKHOAN>
+
+@{
+    ViewBag.Title = "QL_TK";
+    Layout = "~/Views/Layout/Layout_Admin.cshtml";
+}
+
+<!-- Tab content -->
+<div class="mb-5 col-lg-8 col-12 position-relative start-50 translate-middle-x">
+    <div style="text-align:center">
+        <h2>CÁC TÀI KHOẢN CỦA TRANG WEB</h2>
+    </div>
+    <p>
+        @Html.ActionLink("Thêm tài khoản", "DangKy", "Home")
+    </p>
+    <div class="tab-content mt-3">
+
+        <div class="tab-pane fade show active" id="TatCa">
+            <table class="table table-bordered" style="text-align:center">
+                <thead>
+                    <tr>
+                        <th scope="col">Tên đăng nhập</th>
+                        <th scope="col">Mật khẩu</th>
+                        <th scope="col">Email</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    @foreach (var item in Model)
+                    {
+                        <tr>
+                            <td>@Html.DisplayFor(modelItem => item.TENDN)</td>
+                            <td>@Html.DisplayFor(modelItem => item.MATKHAU)</td>
+                            <td>@Html.DisplayFor(modelItem => item.EMAIL)</td>
+                            <td>
+                                @if (item.TENDN != "Admin")
+                                {
+                                    @Html.ActionLink("Xoá", "XoaTK", new { id = item.TENDN })
+                                }
+                            </td>
+                        </tr>
+                    }
+                </tbody>
+            </table>
+        </div>
+    </div>
+</div>

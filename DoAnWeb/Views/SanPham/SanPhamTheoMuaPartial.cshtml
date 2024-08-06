@@ -1,0 +1,10 @@
+﻿<ul class="list-group subcategories" id="subcategory3">
+    @{
+        foreach (var item in Model)
+        {
+            <li class="list-group-item border-0 bg-transparent">
+                <a href="@Url.Action("ShowTheoLoai", "SanPham", new { Ma = item.MALOAI })" style="text-transform:uppercase;text-decoration:none;">@item.TENLOAI</a>
+            </li>
+        }
+    }
+</ul>

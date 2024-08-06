@@ -1,0 +1,31 @@
+﻿@model DoAnWeb.Models.SANPHAM
+
+<content class="bg-primary-subtle" id="content">
+    <div class="container-fluid bg-dark col-lg-8 col-12" style="height: 50px;">
+        <div class="d-flex align-items-center h-100">
+        </div>
+    </div>
+
+
+    <div class="container-fluid bg-light col-lg-8 col-12" style=" padding: 50px 100px;">
+        <div class="row">
+            <!-- Hình ảnh sản phẩm bên trái -->
+            <div class="col-lg-6">
+                <img src="~/Imgs/@Model.DUONGDAN" alt="Product Image" class="img-fluid">
+            </div>
+            <!-- Nội dung sản phẩm bên phải -->
+            <div class="col-lg-6">
+                <h2>@Model.TENSP</h2>
+                <p class="price"><span class="discounted-price">Giá: </span> <span class="original-price">@Model.GIA</span>đ</p>
+                <p>@Model.MOTA</p>
+                <p>Số lượng tồn kho: @Model.SOLUONG</p>
+                <p>Ngày Cập Nhật: @Model.NGAYCAPNHAT</p>
+
+                <br>
+                @Html.ActionLink("Thêm vào Giỏ Hàng", "ThemGioHang", "SanPham", new { masp = Model.MASP}, new { @class = "btn btn-primary" })
+                <button class="btn btn-success">Mua Ngay</button>
+            </div>
+        </div>
+    </div>
+
+</content>
